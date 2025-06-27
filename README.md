@@ -1,4 +1,3 @@
-These are projects i make for hobby purposes and i try to explain the code as much as i can so you can learn something from it :)
-
-**Reminder!**
-These Are HOBBY Projects I made , they might never get updates. they're like "example" piece of software.
+**LIST OF CURRENT PROJECTS**:
+8BallPool - A Billiard Game - Coded on Python
+PyOS - A "Simulated" Terminal-Based Operating System - Coded on Python
