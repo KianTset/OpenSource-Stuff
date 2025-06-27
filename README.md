@@ -1,4 +1,3 @@
-
 These are projects i make for hobby purposes and i try to explain the code as much as i can so you can learn something from it :)
 
 **Reminder!**
