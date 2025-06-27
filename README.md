@@ -1,3 +1,8 @@
-All Applications And Games Are Free To Use For Everyone , Feel Free To Use Them However You Want :) 
-APACHE LICNESE 2.0
-All Apps And Games Are NOT Encrypted And Raw Source Code Only
+NOTE : ALL SOFTWARE ARE RAW SOURCE CODE
+LICENSED BY APACHE 2.0
+---------------------------------------
+These are projects i make for hobby purposes and i try to explain the code as much as i can so you can learn something from it :)
+
+Reminder !!!
+
+These Are HOBBY Projects I made , they might never get updates. they're like "example" piece of software.
